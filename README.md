@@ -26,10 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,html,css,tailwind,git,pytorch,tensorflow,github,docker,linux,vscode,mysql,mongodb,postman" />
-
-  
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,html,css,tailwind,git,pytorch,tensorflow,github,docker,linux,vscode,mysql,mongodb,postman" /> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-9E3FDB?style=for-the-badge&logo=python&logoColor=white" />
