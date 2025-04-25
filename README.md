@@ -66,7 +66,7 @@
 <p align="center">
   <b>Thanks for visiting my profile!</b><br/>
   <p align="center">
-  <img src="https://count.getloli.com/get/@your-username?theme=rule34" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@Mohith202?theme=rule34" alt="Visitor Count" />
 </p>
 
 </p>
