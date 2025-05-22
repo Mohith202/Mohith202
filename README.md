@@ -15,8 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on: **[Anemia Detection]**
-- 🌱 Learning: **[AI/ML]**
+- 🔭 Working on: **Anemia Detection**
+- 🌱 Learning: **AI/ML**
 - 🧠 Interests: **LLMs, Web Dev, AI, Startups**
 - 📫 Reach me at: **[mohithgoud2002@gmail.com]**
 
