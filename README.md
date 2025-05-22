@@ -18,7 +18,7 @@
 - 🔭 Working on: **Anemia Detection**
 - 🌱 Learning: **AI/ML**
 - 🧠 Interests: **LLMs, Web Dev, AI, Startups**
-- 📫 Reach me at: **[mohithgoud2002@gmail.com]**
+- 📫 Reach me at: **mohithgoud2002@gmail.com**
 
 
 ---
